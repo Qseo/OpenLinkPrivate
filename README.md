@@ -5,7 +5,7 @@ Userscript to open all links with non-empty private html attrubute in private ta
 Copyright
 ------------------------
 
-Author: Alexey Murz Korepov
+Author: Alexey Murz Korepov, thanks to @LoveIsGrief for initial code.
 
 E-mail: seo@qseo.ru
 
